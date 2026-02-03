@@ -2,7 +2,7 @@
 ### CODEVERSE SOBAN
 # 🚀 Next.js & FastAPI Applications → Docker Image → Docker Hub (Step by Step)
 
-In this Guide / Video you will learn:
+In this Guide:
 1. Create a Next.js application
 2. Dockerize a Next.js application
 3. Create a FastAPI backend
