@@ -212,7 +212,7 @@ docker run -p 8000:8000 sheikhhamza02/todo_backend
 ## ⬆️ Step 6: Push FastAPI Image to Docker Hub
 
 ```bash
-docker push sheikhhamza021/todo_backend
+docker push sheikhhamza02/todo_backend
 ```
 
 ---
